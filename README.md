@@ -1,0 +1,2 @@
+# finCalc
+Calculos Financieros diversos
